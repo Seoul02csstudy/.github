@@ -1,4 +1,5 @@
 # Seoul02csstudy
+**https://github.com/kangtegong/self-learning-cs**
 
 ## 스터디 목표 : '혼자 공부하는 컴퓨터구조 운영체제’ 1회독
 
